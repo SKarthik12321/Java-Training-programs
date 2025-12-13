@@ -1,4 +1,4 @@
-// Program 3 Power of 2
+package Practice;// Program 3 Power of 2
 
 import java.util.*;
 

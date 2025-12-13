@@ -1,4 +1,4 @@
-//Program 9 Vowel or Consonant
+package Practice;//Program 9 Vowel or Consonant
 
 import java.util.*;
 

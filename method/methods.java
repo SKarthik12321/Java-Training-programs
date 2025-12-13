@@ -1,3 +1,5 @@
+package method;
+
 public class methods {
 
     static void myMethod(){

@@ -1,4 +1,4 @@
-//Program 8 Even or Odd
+package Practice;//Program 8 Even or Odd
 
 import java.util.*;
 

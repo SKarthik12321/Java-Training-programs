@@ -1,6 +1,4 @@
-// Functional Program 4 Quadratic Equation
-
-import java.util.*;
+package Practice;// Functional Program 4 Practice.Quadratic Equation
 
 public class Quadratic {
     public static void main(String[] args) {

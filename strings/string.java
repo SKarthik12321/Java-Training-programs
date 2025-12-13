@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class practice {
+public class string{
 
     // helper to print section headers compactly
     static void h(String title) {

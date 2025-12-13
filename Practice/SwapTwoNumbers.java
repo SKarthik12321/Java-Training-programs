@@ -1,4 +1,4 @@
-//Program 7 Swap Two Numbers
+package Practice;//Program 7 Swap Two Numbers
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-// Functional Program 2 Sum of THree Integer adds to Zero
+package Practice;// Functional Program 2 Sum of THree Integer adds to Zero
 
 import java.util.*;
 

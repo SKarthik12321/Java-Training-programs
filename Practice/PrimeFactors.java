@@ -1,4 +1,4 @@
-//Program 5 Prime Factors
+package Practice;//Program 5 Prime Factors
 
 import java.util.*;
 

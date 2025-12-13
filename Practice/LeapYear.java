@@ -1,4 +1,4 @@
-//Program 2 Leap Year
+package Practice;//Program 2 Leap Year
 
 import java.util.*;
 public class LeapYear{

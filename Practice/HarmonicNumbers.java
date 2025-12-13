@@ -1,4 +1,4 @@
-//Program 4 Harmonic Number
+package Practice;//Program 4 Harmonic Number
 
 import java.util.*;
 

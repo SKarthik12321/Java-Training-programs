@@ -1,4 +1,4 @@
-//Functional Program 5 Temperature Check(WindChill)
+package Practice;//Functional Program 5 Temperature Check(Practice.WindChill)
 
 import java.util.*;
 

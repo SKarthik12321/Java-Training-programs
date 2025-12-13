@@ -1,7 +1,6 @@
-//Program 1 Flipping a coin
+package Practice;//Program 1 Flipping a coin
 
 import java.util.Scanner;
-import java.util.*;
 
 public class FlipCoin {
     public static void main(String[] args){

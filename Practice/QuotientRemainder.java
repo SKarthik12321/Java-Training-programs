@@ -1,4 +1,4 @@
-//Program 6 Compute Quotient And Remainder
+package Practice;//Program 6 Compute Quotient And Remainder
 
 import java.util.*;
 

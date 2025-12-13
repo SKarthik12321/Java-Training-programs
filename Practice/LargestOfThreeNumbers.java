@@ -1,4 +1,4 @@
-//Program 10 Largest of Three Numbers
+package Practice;//Program 10 Largest of Three Numbers
 
 import java.util.*;
 

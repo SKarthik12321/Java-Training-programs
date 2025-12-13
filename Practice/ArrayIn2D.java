@@ -1,4 +1,4 @@
-//Function Program 1 2Dimensional Array
+package Practice;//Function Program 1 2Dimensional Array
 
 import java.util.*;
 import java.io.OutputStreamWriter;
